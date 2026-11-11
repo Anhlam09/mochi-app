@@ -31,6 +31,17 @@
 - 🎨 **Six flavors:** strawberry, matcha, taro, ramune, peach and banana.
 - 🔒 **Private:** no accounts, no tracking. Everything runs on your Mac.
 
+<p align="center">
+  <picture>
+    <source srcset="images/todos_dark.png" media="(prefers-color-scheme: dark)">
+    <img src="images/todos_light.png" width="380" alt="Mochi's to-do card titled “This week”, showing today's meetings with times and a field to add a to-do for any day.">
+  </picture>
+  <picture>
+    <source srcset="images/ask_dark.png" media="(prefers-color-scheme: dark)">
+    <img src="images/ask_light.png" width="380" alt="The Ask Mochi tab with buttons for Plan my day, Plan my week, Cheer me up, Start a focus, Lunch idea and Dinner idea.">
+  </picture>
+</p>
+
 <picture>
   <source srcset="images/flavors_dark.png" media="(prefers-color-scheme: dark)">
   <img src="images/flavors_light.png" alt="Six Mochis in strawberry pink, matcha green, taro lavender, ramune blue, peach and banana yellow.">
